@@ -1,14 +1,14 @@
-asgiref @ file:///root/.cache/pypoetry/artifacts/0b/21/50/2bcd78e63f8be828de46e1a221f490604bd99b70edc7d49bfea5f2ff5b/asgiref-3.3.1-py3-none-any.whl
-attrs @ file:///root/.cache/pypoetry/artifacts/b7/28/6f/acdd2c0e759f1cda97abf00db7723a0ffb3a151696d8d96398aea16171/attrs-20.3.0-py2.py3-none-any.whl
-Django @ file:///root/.cache/pypoetry/artifacts/06/a6/53/9644a93c98278829cb468878b7e7c0bc17e486cca66f84621335bac0a2/Django-3.1.5-py3-none-any.whl
-djangorestframework @ file:///root/.cache/pypoetry/artifacts/e3/08/1d/2834edd42b18b05e8ca8969c859a4374478872dfff9da3c1c4c2e0aeba/djangorestframework-3.12.2-py3-none-any.whl
-iniconfig @ file:///root/.cache/pypoetry/artifacts/ac/f9/da/e990ffcd9ec361a68676a5916e391286e1ea5d1b8907ae887e141a71f5/iniconfig-1.1.1-py2.py3-none-any.whl
-packaging @ file:///root/.cache/pypoetry/artifacts/69/b5/74/4884010222ec7d09be9bd10d71316b7c49153ef24103605e4a2650af7c/packaging-20.9-py2.py3-none-any.whl
-pluggy @ file:///root/.cache/pypoetry/artifacts/9c/e5/0b/2d64d03361a081edeb5d2ec5f286ccf9719587781fbf6822e1b6384c27/pluggy-0.13.1-py2.py3-none-any.whl
-py @ file:///root/.cache/pypoetry/artifacts/6b/b2/2b/e6686e7d0183dbd36bd66921efa3e77ce26260a3671524cd86614290e0/py-1.10.0-py2.py3-none-any.whl
-pyparsing @ file:///root/.cache/pypoetry/artifacts/da/e7/3d/1780282f558e5fd157bf708b28b8ba0d08323ef6bc5b6396139ce38a0b/pyparsing-2.4.7-py2.py3-none-any.whl
-pytest @ file:///root/.cache/pypoetry/artifacts/ba/91/14/23adb9b15ce836665a99c972a5135db1ca93b99dfe4946fddf87c531b6/pytest-6.2.2-py3-none-any.whl
-pytest-django @ file:///root/.cache/pypoetry/artifacts/d2/d7/10/73556aa3dfe80c8d00e1f3b8e01e867b148b5632e605bd62a87f39fa02/pytest_django-4.1.0-py3-none-any.whl
-pytz @ file:///root/.cache/pypoetry/artifacts/82/a3/7d/f351b383d5fc50fa6c93691abd2eb98ce223942fc7ddaa5ab57df3a2d0/pytz-2020.5-py2.py3-none-any.whl
-sqlparse @ file:///root/.cache/pypoetry/artifacts/f6/9e/b8/b33d7ab31a08d0f94b260c990d807e12f38e0ffb105a4c2ca9ad9a6434/sqlparse-0.4.1-py3-none-any.whl
-toml @ file:///root/.cache/pypoetry/artifacts/9f/8c/c3/7b4f6778d60f3c9fa11f8fd0e48243bbad25a04975e0a01006b6350594/toml-0.10.2-py2.py3-none-any.whl
+asgiref
+attrs
+Django
+djangorestframework
+iniconfig
+packaging
+pluggy
+py
+pyparsing
+pytest
+pytest-django
+pytz
+sqlparse
+toml
